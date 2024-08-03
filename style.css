@@ -245,6 +245,9 @@ nav .icons{
     .pricing .caption{
         padding: 30px 0;
     }
+    .pricing .container img{
+        height: 150px;
+    }
 }
 
 
